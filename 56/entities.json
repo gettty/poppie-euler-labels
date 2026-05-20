@@ -1,7 +1,10 @@
 {
 	"poppie": {
 		"name": "Poppie",
-		"description": "Oracle infrastructure for tokenized real-world assets on Euler V2.",
-		"url": "https://github.com/gettty/PoppieEulerBSC"
+		"description": "Lending markets for Ondo tokenized real-world assets on Euler V2. The curator is responsible for oracle configuration, vault parameter management, and risk monitoring.",
+		"url": "https://github.com/gettty/PoppieEulerBSC",
+		"addresses": {
+			"0x1fd3afc21f378ee279646e6c1a59ef57896646b9": "Poppie Governor"
+		}
 	}
 }
