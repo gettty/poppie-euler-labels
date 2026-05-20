@@ -1,0 +1,11 @@
+{
+	"poppie-ondo-bsc": {
+		"name": "Poppie Ondo Markets",
+		"description": "Lending markets for Ondo tokenized assets on BSC. Borrow USDT against NVDAon and other Ondo tokens.",
+		"entity": "poppie",
+		"vaults": [
+			"0x4aba25f7c70c05b65cc9692e2b36d2ad6f6e6c46",
+			"0xaa85ED33f15E34Dbd55e330d6DcaEFfc61BbAa77"
+		]
+	}
+}
