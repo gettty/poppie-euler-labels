@@ -5,8 +5,7 @@
 		"description": "Poppie Finance is a Euler curator that focuses on RWAs. The curator is responsible for oracle configuration, vault parameter management, and risk monitoring.",
 		"url": "https://poppie-euler-ui.fly.dev",
 		"addresses": {
-			"0x1fd3afc21f378ee279646e6c1a59ef57896646b9": "Poppie Governor (V1)",
-			"0xf4d92bc8006836132364b355db9cff204466abc3": "Poppie Governor (V2 deployer)"
+			"0xf4d92bc8006836132364b355db9cff204466abc3": "Poppie Governor"
 		}
 	}
 }
